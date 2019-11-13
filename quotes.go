@@ -1,4 +1,4 @@
-package main
+package quotes
 
 func Favs() []string {
 	var a []string
