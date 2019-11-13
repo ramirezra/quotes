@@ -1,6 +1,6 @@
 package main
 
-func favs() []string {
+func Favs() []string {
 	var a []string
 	return a
 }
